@@ -3,7 +3,7 @@ package duit
 import (
 	"image"
 
-	"9fans.net/go/draw"
+	"github.com/jopbrown/duit/draw"
 )
 
 // Buttongroup shows multiple joined buttons, with one of them active.

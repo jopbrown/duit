@@ -3,7 +3,7 @@ package duit
 import (
 	"image"
 
-	"9fans.net/go/draw"
+	"github.com/jopbrown/duit/draw"
 )
 
 // Button with text and optional icon with a click function.

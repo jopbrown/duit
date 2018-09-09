@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/mjl-/duit"
+	"github.com/jopbrown/duit"
 )
 
 func main() {

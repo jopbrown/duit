@@ -3,7 +3,7 @@ package duit
 import (
 	"image"
 
-	"9fans.net/go/draw"
+	"github.com/jopbrown/duit/draw"
 )
 
 // Split is a horizontal or vertical split of the available space, with 1 or more UIs.

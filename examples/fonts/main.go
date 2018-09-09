@@ -7,7 +7,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/mjl-/duit"
+	"github.com/jopbrown/duit"
 )
 
 func check(err error, msg string) {

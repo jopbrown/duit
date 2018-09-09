@@ -5,7 +5,7 @@ import (
 	"image"
 	"strings"
 
-	"9fans.net/go/draw"
+	"github.com/jopbrown/duit/draw"
 )
 
 const (

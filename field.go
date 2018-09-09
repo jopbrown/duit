@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"9fans.net/go/draw"
+	"github.com/jopbrown/duit/draw"
 )
 
 // Cursor and SelectionStart start at 1 for sane behaviour of an empty Field struct.

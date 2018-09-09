@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"image"
 
-	"9fans.net/go/draw"
+	"github.com/jopbrown/duit/draw"
 )
 
 // Grid lays out other UIs in a table-like grid.

@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"9fans.net/go/draw"
-	"github.com/mjl-/duit"
+	"github.com/jopbrown/duit/draw"
+	"github.com/jopbrown/duit"
 )
 
 func rect(p image.Point) image.Rectangle {

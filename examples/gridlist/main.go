@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/mjl-/duit"
+	"github.com/jopbrown/duit"
 
-	"9fans.net/go/draw"
+	"github.com/jopbrown/duit/draw"
 )
 
 func check(err error, msg string) {

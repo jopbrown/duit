@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"image"
 
-	"9fans.net/go/draw"
+	"github.com/jopbrown/duit/draw"
 )
 
 // Scroll shows a part of its single child, typically a box, and lets you scroll the content.

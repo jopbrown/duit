@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/mjl-/duit"
+	"github.com/jopbrown/duit"
 )
 
 func check(err error, msg string) {
