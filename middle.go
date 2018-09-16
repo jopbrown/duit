@@ -20,7 +20,7 @@ func NewMiddle(padding Space, ui UI) *Middle {
 	return &Middle{
 		Kid: &Kid{
 			UI: &Box{
-				Padding: SpaceXY(10, 10),
+				Padding: padding,
 				Kids:    NewKids(ui),
 			},
 		},
